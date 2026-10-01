@@ -1,0 +1,989 @@
+2026-09-27 20:29:09,256 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165'
+2026-09-27 20:29:37,054 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165'
+2026-09-27 20:32:51,247 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08070674375286' latitude='42.38057239316532'
+2026-09-27 20:33:13,990 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165'
+2026-09-27 20:33:54,366 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165' time='0001-01-01T20:33:54-04:56:02'
+2026-09-27 20:33:55,087 - INFO - [api.py -> save_location()] - Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States
+2026-09-27 20:35:17,502 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165' time='0001-01-01T20:35:17-04:56:02'
+2026-09-27 20:35:17,608 - INFO - [api.py -> save_location()] - Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States
+2026-09-27 20:36:43,329 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08070672191869' latitude='42.38057242045208' time='2026-09-27T20:36:43-04:00'
+2026-09-27 20:36:43,784 - INFO - [api.py -> save_location()] - Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States
+2026-09-27 20:58:27,712 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069583176376' latitude='42.38059311001165' time='2026-09-27T20:58:27-04:00'
+2026-09-27 20:58:28,397 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 16:50:33,145 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069558063394' latitude='42.38059451617381' time='2026-10-01T16:50:33-04:00'
+2026-10-01 16:50:33,595 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 16:52:25,716 - INFO - [__main__.py -> log()] - address='Karben' longitude='8.77155' latitude='50.23019' time='2026-10-01T16:52:25.701962'
+2026-10-01 16:52:26,303 - INFO - [api.py -> save_location()] - saving address 9, Egerländer Straße, Klein-Karben, Karben, Wetteraukreis, Hessen, 61184, Deutschland for user 1
+2026-10-01 16:52:36,506 - INFO - [__main__.py -> log()] - address='Lower West Side' longitude='-87.66561' latitude='41.8542' time='2026-10-01T16:52:36.492782'
+2026-10-01 16:52:37,357 - INFO - [api.py -> save_location()] - saving address 1554, West 21st Street, Pilsen, Lower West Side, Chicago, West Chicago Township, Cook County, Illinois, 60608, United States for user 1
+2026-10-01 16:52:39,468 - INFO - [__main__.py -> log()] - address='Emmeloord' longitude='5.74861' latitude='52.71083' time='2026-10-01T16:52:39.455450'
+2026-10-01 16:52:40,028 - INFO - [api.py -> save_location()] - saving address 2, Duizendknoopstraat, Centrum, Emmeloord, Noordoostpolder, Flevoland, Nederland, 8302 VE, Nederland for user 1
+2026-10-01 16:52:42,970 - INFO - [__main__.py -> log()] - address='Port Richmond' longitude='-74.13653' latitude='40.63316' time='2026-10-01T16:52:42.954870'
+2026-10-01 16:52:43,363 - INFO - [api.py -> save_location()] - saving address 357, Port Richmond Avenue, Port Richmond, Staten Island, Richmond County, New York, 10302, United States for user 1
+2026-10-01 17:09:31,349 - INFO - [__main__.py -> log()] - address='Al Jubayl' longitude='49.62251' latitude='27.0174' time='2026-10-01T17:09:31.303290'
+2026-10-01 17:09:31,720 - INFO - [api.py -> save_location()] - saving address الضباب, الجبيل, محافظة الجبيل, المنطقة الشرقية, 35514, السعودية for user 1
+2026-10-01 17:11:19,129 - INFO - [__main__.py -> log()] - address='Castelfranco Emilia' longitude='11.04979' latitude='44.59445' time='2026-10-01T17:11:19.114080'
+2026-10-01 17:11:19,591 - INFO - [api.py -> save_location()] - saving address Via Don Luigi Roncagli, Castelfranco Emilia, Unione dei comuni del Sorbara, Modena, Emilia-Romagna, 41013, Italia for user 1
+2026-10-01 17:12:07,473 - INFO - [__main__.py -> log()] - address='Alfenas' longitude='-45.94722' latitude='-21.42917' time='2026-10-01T17:12:07.461516'
+2026-10-01 17:12:07,869 - INFO - [api.py -> save_location()] - saving address Centro, Alfenas, Minas Gerais, Região Sudeste, 37130-073, Brasil for user 1
+2026-10-01 17:12:54,801 - INFO - [__main__.py -> log()] - address='Karbala' longitude='44.02488' latitude='32.61603' time='2026-10-01T17:12:54.788998'
+2026-10-01 17:12:55,012 - INFO - [api.py -> save_location()] - saving address مدينة كربلاء القديمة, كربلاء, ناحية مرکز قضاء الکربلاء, قضاء کربلاء, محافظة كربلاء, 56001, العراق for user 1
+2026-10-01 17:15:02,955 - INFO - [__main__.py -> log()] - address='Barinas' longitude='-70.20749' latitude='8.62261' time='2026-10-01T17:15:02.929319'
+2026-10-01 17:15:03,233 - INFO - [api.py -> save_location()] - saving address Avenida Cruz Paredes, Francisco de Miranda, Parroquia Corazón de Jesús, Municipio Barinas, Barinas, 5201, Venezuela for user 1
+2026-10-01 17:17:17,460 - INFO - [__main__.py -> log()] - address='Bordj Zemoura' longitude='4.85668' latitude='36.27462' time='2026-10-01T17:17:17.438521'
+2026-10-01 17:17:17,870 - INFO - [api.py -> save_location()] - saving address Bouzeroual, Mechtat el Beida, Cherfaa, Bordj Zemoura ⴱⵓⵔⴵ ⵣⴻⵎⵎⵓⵔⴰ برج زمورة, Daïra Bordj Zemoura, برج بوعريريج ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ, 34000, ⵍⵣⵣⴰⵢⴻⵔ الجزائر for user 1
+2026-10-01 17:17:41,337 - INFO - [__main__.py -> log()] - address='Bonoua' longitude='-3.59625' latitude='5.27247' time='2026-10-01T17:17:41.325631'
+2026-10-01 17:17:41,749 - INFO - [api.py -> save_location()] - saving address Bonoua, Grand-Bassam, Sud-Comoé, Comoé, Côte d’Ivoire for user 1
+2026-10-01 17:18:45,531 - INFO - [__main__.py -> log()] - address='Imbituba' longitude='-48.67028' latitude='-28.24' time='2026-10-01T17:18:45.514966'
+2026-10-01 17:18:45,921 - INFO - [api.py -> save_location()] - saving address Rua Otacílio de Carvalho, Centro, Imbituba, Santa Catarina, Região Sul, 88780-000, Brasil for user 1
+2026-10-01 17:19:19,401 - INFO - [__main__.py -> log()] - address='Harstad' longitude='16.54165' latitude='68.79833' time='2026-10-01T17:19:19.389078'
+2026-10-01 17:19:19,765 - INFO - [api.py -> save_location()] - saving address 13, Storgata, Eineberget, Harstadåsen, Harstad, Troms, 9405, Norge for user 1
+2026-10-01 17:19:51,061 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 17:19:58,851 - INFO - [__main__.py -> log()] - address='Ken Caryl' longitude='-105.11221' latitude='39.57582' time='2026-10-01T17:19:58.791055'
+2026-10-01 17:19:58,858 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:19:58,858 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:19:58,858 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=39.57582&lon=-105.11221&format=json&addressdetails=1
+2026-10-01 17:19:58,859 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:19:59,265 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=39.57582&lon=-105.11221&format=json&addressdetails=1 HTTP/1.1" 200 451
+2026-10-01 17:19:59,267 - INFO - [api.py -> save_location()] - saving address 7772, South Cottonwood Mountain, Aspen Meadows, Ken Caryl, Jefferson County, Colorado, 80127, United States for user 1
+2026-10-01 17:19:59,278 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:19:58.791055 to 1790889598.791055
+2026-10-01 17:19:59,282 - DEBUG - [database.py -> save_location()] - saved 7772, South Cottonwood Mountain, Aspen Meadows, Ken Caryl, Jefferson County, Colorado, 80127, United States 1 2026-10-01T17:19:58.791055 None with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:25:32,429 - INFO - [__main__.py -> log()] - address='Wangon' longitude='109.05389' latitude='-7.51611' time='2026-10-01T17:25:32.394075'
+2026-10-01 17:25:32,435 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:25:32,436 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:25:32,437 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=-7.51611&lon=109.05389&format=json&addressdetails=1
+2026-10-01 17:25:32,440 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:25:32,828 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=-7.51611&lon=109.05389&format=json&addressdetails=1 HTTP/1.1" 200 389
+2026-10-01 17:25:32,831 - INFO - [api.py -> save_location()] - saving address Wangon, Banyumas, Jawa Tengah, 53252, Indonesia for user 1
+2026-10-01 17:25:32,831 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:25:32.394075 to 1790889932.394075
+2026-10-01 17:25:32,837 - DEBUG - [database.py -> save_location()] - saved Wangon, Banyumas, Jawa Tengah, 53252, Indonesia 1 2026-10-01T17:25:32.394075 None with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:25:36,918 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 17:25:39,741 - INFO - [__main__.py -> log()] - address='Cheraga' longitude='2.95924' latitude='36.76775' time='2026-10-01T17:25:39.675286'
+2026-10-01 17:25:39,752 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:25:39,752 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:25:39,752 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=36.76775&lon=2.95924&format=json&addressdetails=1
+2026-10-01 17:25:39,754 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:25:40,135 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=36.76775&lon=2.95924&format=json&addressdetails=1 HTTP/1.1" 200 530
+2026-10-01 17:25:40,136 - INFO - [api.py -> save_location()] - saving address Rue Arbadji Salah, Sidi Hassen سيدي حسن, El Karia ⵇⴰⵔⵢⴰ القرية, Chéraga, Daïra de Chéraga, الجزائر ⴷⵣⴰⵢⴻⵔ, 16000, ⵍⵣⵣⴰⵢⴻⵔ الجزائر for user 1
+2026-10-01 17:25:40,140 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:25:39.675286 to 1790889939.675286
+2026-10-01 17:25:40,142 - DEBUG - [database.py -> save_location()] - saved Rue Arbadji Salah, Sidi Hassen سيدي حسن, El Karia ⵇⴰⵔⵢⴰ القرية, Chéraga, Daïra de Chéraga, الجزائر ⴷⵣⴰⵢⴻⵔ, 16000, ⵍⵣⵣⴰⵢⴻⵔ الجزائر 1 2026-10-01T17:25:39.675286 1790889939.675286 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:26:23,975 - INFO - [__main__.py -> log()] - address='Tinaquillo' longitude='-68.30472' latitude='9.91861' time='2026-10-01T17:26:23.964556'
+2026-10-01 17:26:23,976 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:23,976 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:23,976 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=9.91861&lon=-68.30472&format=json&addressdetails=1
+2026-10-01 17:26:23,977 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:26:24,337 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=9.91861&lon=-68.30472&format=json&addressdetails=1 HTTP/1.1" 200 490
+2026-10-01 17:26:24,338 - INFO - [api.py -> save_location()] - saving address Avenida Ricaurte, Urbanización Apamates II, Casco Central, Tinaquillo, Parroquia Tinaquillo, Municipio Tinaquillo, Cojedes, 2209, Venezuela for user 1
+2026-10-01 17:26:24,338 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:26:23.964556 to 1790889983.964556
+2026-10-01 17:26:24,342 - DEBUG - [database.py -> save_location()] - saved Avenida Ricaurte, Urbanización Apamates II, Casco Central, Tinaquillo, Parroquia Tinaquillo, Municipio Tinaquillo, Cojedes, 2209, Venezuela 1 2026-10-01T17:26:23.964556 1790889983.964556 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:26:25,597 - INFO - [__main__.py -> log()] - address='Larkana' longitude='68.21204' latitude='27.55898' time='2026-10-01T17:26:25.586157'
+2026-10-01 17:26:25,598 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:25,598 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:25,598 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=27.55898&lon=68.21204&format=json&addressdetails=1
+2026-10-01 17:26:25,599 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:26:25,826 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=27.55898&lon=68.21204&format=json&addressdetails=1 HTTP/1.1" 200 479
+2026-10-01 17:26:25,827 - INFO - [api.py -> save_location()] - saving address لاڑکانہ, تعلقہ لاڑکانہ, ضلع لاڑکانہ, لاڑکانہ ڈویژن, سندھ, 77150, پاکستان for user 1
+2026-10-01 17:26:25,827 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:26:25.586157 to 1790889985.586157
+2026-10-01 17:26:25,830 - DEBUG - [database.py -> save_location()] - saved لاڑکانہ, تعلقہ لاڑکانہ, ضلع لاڑکانہ, لاڑکانہ ڈویژن, سندھ, 77150, پاکستان 1 2026-10-01T17:26:25.586157 1790889985.586157 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:26:27,622 - INFO - [__main__.py -> log()] - address='Bergama' longitude='27.18052' latitude='39.12074' time='2026-10-01T17:26:27.610997'
+2026-10-01 17:26:27,623 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:27,623 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:27,623 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=39.12074&lon=27.18052&format=json&addressdetails=1
+2026-10-01 17:26:27,623 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:26:28,191 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=39.12074&lon=27.18052&format=json&addressdetails=1 HTTP/1.1" 200 449
+2026-10-01 17:26:28,192 - INFO - [api.py -> save_location()] - saving address Hacı Yamak Sokak, Turabey Mahallesi, Bergama, İzmir, Ege Bölgesi, 35700, Türkiye for user 1
+2026-10-01 17:26:28,192 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:26:27.610997 to 1790889987.610997
+2026-10-01 17:26:28,196 - DEBUG - [database.py -> save_location()] - saved Hacı Yamak Sokak, Turabey Mahallesi, Bergama, İzmir, Ege Bölgesi, 35700, Türkiye 1 2026-10-01T17:26:27.610997 1790889987.610997 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:26:30,406 - INFO - [__main__.py -> log()] - address='Kobuleti' longitude='41.77921' latitude='41.82143' time='2026-10-01T17:26:30.394760'
+2026-10-01 17:26:30,406 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:30,407 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:30,407 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=41.82143&lon=41.77921&format=json&addressdetails=1
+2026-10-01 17:26:30,407 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:26:30,853 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=41.82143&lon=41.77921&format=json&addressdetails=1 HTTP/1.1" 200 533
+2026-10-01 17:26:30,854 - INFO - [api.py -> save_location()] - saving address 120, თავისუფლების ქუჩა, ქობულეთი, ქობულეთის მუნიციპალიტეტი, აჭარის ავტონომიური რესპუბლიკა, 6200, საქართველო for user 1
+2026-10-01 17:26:30,854 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:26:30.394760 to 1790889990.39476
+2026-10-01 17:26:30,856 - DEBUG - [database.py -> save_location()] - saved 120, თავისუფლების ქუჩა, ქობულეთი, ქობულეთის მუნიციპალიტეტი, აჭარის ავტონომიური რესპუბლიკა, 6200, საქართველო 1 2026-10-01T17:26:30.394760 1790889990.39476 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:26:32,965 - INFO - [__main__.py -> log()] - address='Moga' longitude='75.16878' latitude='30.81383' time='2026-10-01T17:26:32.952501'
+2026-10-01 17:26:32,966 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:32,966 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:26:32,966 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=30.81383&lon=75.16878&format=json&addressdetails=1
+2026-10-01 17:26:32,966 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:26:33,354 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=30.81383&lon=75.16878&format=json&addressdetails=1 HTTP/1.1" 200 393
+2026-10-01 17:26:33,356 - INFO - [api.py -> save_location()] - saving address Moga, Moga Tahsil, Moga, Punjab, 142001, India for user 1
+2026-10-01 17:26:33,357 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01T17:26:32.952501 to 1790889992.952501
+2026-10-01 17:26:33,359 - DEBUG - [database.py -> save_location()] - saved Moga, Moga Tahsil, Moga, Punjab, 142001, India 1 2026-10-01T17:26:32.952501 1790889992.952501 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 17:56:55,071 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069558063394' latitude='42.38059451617381' time='2026-10-01T17:56:54-04:00'
+2026-10-01 17:56:55,078 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:56:55,078 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:56:55,079 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1
+2026-10-01 17:56:55,082 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:56:55,496 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 17:56:55,498 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 17:57:13,429 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069443834344' latitude='42.38056091884243' time='2026-10-01T17:57:13-04:00'
+2026-10-01 17:57:13,429 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:57:13,429 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:57:13,430 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38056091884243&lon=-71.08069443834344&format=json&addressdetails=1
+2026-10-01 17:57:13,430 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:57:13,866 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38056091884243&lon=-71.08069443834344&format=json&addressdetails=1 HTTP/1.1" 200 437
+2026-10-01 17:57:13,867 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 17:59:09,524 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 17:59:24,098 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069558063394' latitude='42.38059451617381' time='2026-10-01T17:59:23-04:00'
+2026-10-01 17:59:24,119 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:59:24,119 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 17:59:24,119 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1
+2026-10-01 17:59:24,120 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 17:59:24,309 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 17:59:24,310 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 17:59:24,310 - ERROR - [api.py -> save_location()] - BaseModel.__init__() takes 1 positional argument but 2 were given
+2026-10-01 18:03:53,356 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:04:11,127 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069558063394' latitude='42.38059451617381' time='2026-10-01T18:04:10-04:00'
+2026-10-01 18:04:11,156 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:04:11,157 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:04:11,157 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1
+2026-10-01 18:04:11,158 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:04:11,231 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:04:11,232 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:04:11,237 - ERROR - [api.py -> save_location()] - time data '2026-10-01T18:04:10-04:00' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+2026-10-01 18:05:58,398 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068918471176' latitude='42.38047758225196' time='Thu, 01 Oct 2026 18:05:58 -0400'
+2026-10-01 18:05:58,402 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:05:58,402 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:05:58,403 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38047758225196&lon=-71.08068918471176&format=json&addressdetails=1
+2026-10-01 18:05:58,403 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:05:58,838 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38047758225196&lon=-71.08068918471176&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:05:58,840 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:05:58,840 - ERROR - [api.py -> save_location()] - time data 'Thu, 01 Oct 2026 18:05:58 -0400' does not match format '%Y-%m-%dT%H:%M:%S.%f'
+2026-10-01 18:10:13,438 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:10:20,558 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068851626822' latitude='42.38055636393377' time='2026-10-01'
+2026-10-01 18:10:20,594 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:10:20,594 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:10:20,595 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055636393377&lon=-71.08068851626822&format=json&addressdetails=1
+2026-10-01 18:10:20,596 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:10:21,038 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055636393377&lon=-71.08068851626822&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:10:21,039 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:10:21,050 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01 to 1790827200.0
+2026-10-01 18:10:21,057 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01 1790827200.0 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:10:49,704 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.080688576486' latitude='42.38055632904506' time='2026-10-01'
+2026-10-01 18:10:49,707 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:10:49,707 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:10:49,707 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055632904506&lon=-71.080688576486&format=json&addressdetails=1
+2026-10-01 18:10:49,708 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:10:50,209 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055632904506&lon=-71.080688576486&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:10:50,210 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:10:50,210 - DEBUG - [models.py -> time_as_epoch()] - converted time 2026-10-01 to 1790827200.0
+2026-10-01 18:10:50,220 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01 1790827200.0 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:22:28,110 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:22:33,630 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.0806885446498' latitude='42.38055634749048' time='2026-10-01'
+2026-10-01 18:22:33,643 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:22:33,689 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:22:33,689 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:22:33,690 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055634749048&lon=-71.0806885446498&format=json&addressdetails=1
+2026-10-01 18:22:33,692 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:22:34,080 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055634749048&lon=-71.0806885446498&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:22:34,082 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:22:34,082 - ERROR - [api.py -> save_location()] - 'LogLocation' object has no attribute 'time_as_epoch'
+2026-10-01 18:22:44,395 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:22:46,322 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068851750447' latitude='42.38055636321781' time='2026-10-01'
+2026-10-01 18:22:46,324 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:22:46,331 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:22:46,332 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:22:46,332 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055636321781&lon=-71.08068851750447&format=json&addressdetails=1
+2026-10-01 18:22:46,333 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:22:46,722 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055636321781&lon=-71.08068851750447&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:22:46,727 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:22:46,728 - ERROR - [api.py -> save_location()] - 'LogLocation' object has no attribute 'time_as_epoch'
+2026-10-01 18:23:49,751 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:23:53,761 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08069558063394' latitude='42.38059451617381' time='2026-10-01'
+2026-10-01 18:23:53,764 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:23:53,779 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:23:53,779 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:23:53,779 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1
+2026-10-01 18:23:53,781 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:23:53,862 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38059451617381&lon=-71.08069558063394&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:23:53,863 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:23:53,863 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:23:53.764774 to 2026-10-01 18:23:53.764774
+2026-10-01 18:23:53,872 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:23:53.764774 1790893433.764774 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:25:52,888 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068850326887' latitude='42.38055637146552' time='2026-10-01'
+2026-10-01 18:25:52,888 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:25:52,889 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:25:52,889 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:25:52,889 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055637146552&lon=-71.08068850326887&format=json&addressdetails=1
+2026-10-01 18:25:52,890 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:25:53,374 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055637146552&lon=-71.08068850326887&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:25:53,375 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:25:53,375 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:25:52.888731 to 2026-10-01 18:25:52.888731
+2026-10-01 18:25:53,381 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:25:52.888731 1790893552.888731 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:26:11,485 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068854237713' latitude='42.38055634880717' time='2026-10-01'
+2026-10-01 18:26:11,487 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:26:11,488 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:11,488 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:11,489 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055634880717&lon=-71.08068854237713&format=json&addressdetails=1
+2026-10-01 18:26:11,490 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:26:11,848 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055634880717&lon=-71.08068854237713&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:26:11,849 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:26:11,849 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:26:11.488031 to 2026-10-01 18:26:11.488031
+2026-10-01 18:26:11,853 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:26:11.488031 1790893571.488031 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:26:19,086 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.0806886020961' latitude='42.38055631420745' time='2026-10-01'
+2026-10-01 18:26:19,086 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:26:19,087 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:19,087 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:19,087 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055631420745&lon=-71.0806886020961&format=json&addressdetails=1
+2026-10-01 18:26:19,088 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:26:19,605 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055631420745&lon=-71.0806886020961&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:26:19,606 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:26:19,606 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:26:19.086927 to 2026-10-01 18:26:19.086927
+2026-10-01 18:26:19,610 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:26:19.086927 1790893579.086927 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:26:42,418 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08068856783639' latitude='42.38055633405668' time='2026-10-01'
+2026-10-01 18:26:42,418 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:26:42,419 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:42,419 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:26:42,419 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38055633405668&lon=-71.08068856783639&format=json&addressdetails=1
+2026-10-01 18:26:42,420 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:26:42,866 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38055633405668&lon=-71.08068856783639&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:26:42,867 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:26:42,867 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:26:42.418686 to 2026-10-01 18:26:42.418686
+2026-10-01 18:26:42,870 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:26:42.418686 1790893602.418686 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:36:50,888 - INFO - [__main__.py -> log()] - address='20 Inner Belt Rd\nSomerville MA 02143\nUnited States' longitude='-71.08061372472829' latitude='42.38058370889262' time='2026-10-01'
+2026-10-01 18:36:50,903 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01 to 2026-10-01 00:00:00
+2026-10-01 18:36:50,907 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:36:50,908 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:36:50,910 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.38058370889262&lon=-71.0806137247283&format=json&addressdetails=1
+2026-10-01 18:36:50,913 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:36:51,252 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.38058370889262&lon=-71.0806137247283&format=json&addressdetails=1 HTTP/1.1" 200 438
+2026-10-01 18:36:51,254 - INFO - [api.py -> save_location()] - saving address Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States for user 100
+2026-10-01 18:36:51,254 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:36:50.903547 to 2026-10-01 18:36:50.903547
+2026-10-01 18:36:51,267 - DEBUG - [database.py -> save_location()] - saved Crescent Street, Charlestown, Somerville, Middlesex County, Massachusetts, 02141, United States 100 2026-10-01T18:36:50.903547 1790894210.903547 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:39:30,651 - INFO - [__main__.py -> log()] - address='Guli' longitude='120.03308' latitude='28.88162' time='2026-10-01T18:39:30.634044'
+2026-10-01 18:39:30,652 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:39:30.634044 to 2026-10-01 18:39:30.634044
+2026-10-01 18:39:30,652 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:39:30,653 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:39:30,653 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=28.88162&lon=120.03308&format=json&addressdetails=1
+2026-10-01 18:39:30,653 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:39:31,071 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=28.88162&lon=120.03308&format=json&addressdetails=1 HTTP/1.1" 200 448
+2026-10-01 18:39:31,072 - INFO - [api.py -> save_location()] - saving address 上白线, 江南街道, 永康市, 金华市, 浙江省, 中国 for user 100
+2026-10-01 18:39:31,072 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:39:30.634044 to 2026-10-01 18:39:30.634044
+2026-10-01 18:39:31,076 - DEBUG - [database.py -> save_location()] - saved 上白线, 江南街道, 永康市, 金华市, 浙江省, 中国 100 2026-10-01T18:39:30.634044 1790894370.634044 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:40:37,385 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:40:48,492 - INFO - [__main__.py -> log()] - address='Nkpor' longitude='6.83042' latitude='6.15038' time='2026-10-01T18:40:48.454514'
+2026-10-01 18:40:48,495 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:40:48.454514 to 2026-10-01 18:40:48.454514
+2026-10-01 18:40:48,501 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:40:48,501 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:40:48,502 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=6.15038&lon=6.83042&format=json&addressdetails=1
+2026-10-01 18:40:48,503 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:40:48,911 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=6.15038&lon=6.83042&format=json&addressdetails=1 HTTP/1.1" 200 384
+2026-10-01 18:40:48,912 - INFO - [api.py -> save_location()] - saving address Nkpor, Obosi, Idemili North, Anambra, Nigeria for user 100
+2026-10-01 18:40:48,912 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:40:48.454514 to 2026-10-01 18:40:48.454514
+2026-10-01 18:40:48,916 - DEBUG - [database.py -> save_location()] - saved Nkpor, Obosi, Idemili North, Anambra, Nigeria 100 2026-10-01T18:40:48.454514 1790894448.454514 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:41:58,533 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:42:30,689 - INFO - [__main__.py -> log()] - address='Mardin' longitude='40.74357' latitude='37.31309' time='2026-10-01T18:42:30.636187'
+2026-10-01 18:42:30,697 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:42:30.636187 to 2026-10-01 18:42:30.636187
+2026-10-01 18:42:30,704 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:42:30,704 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:42:30,705 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=37.31309&lon=40.74357&format=json&addressdetails=1
+2026-10-01 18:42:30,706 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:42:31,182 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=37.31309&lon=40.74357&format=json&addressdetails=1 HTTP/1.1" 200 457
+2026-10-01 18:42:31,183 - INFO - [api.py -> save_location()] - saving address Yenişehir Mah., Teker Mah., Mardin, Artuklu, Mardin, Güneydoğu Anadolu Bölgesi, 47100, Türkiye for user 100
+2026-10-01 18:42:31,183 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:42:30.636187 to 2026-10-01 18:42:30.636187
+2026-10-01 18:42:31,188 - DEBUG - [database.py -> save_location()] - saved Yenişehir Mah., Teker Mah., Mardin, Artuklu, Mardin, Güneydoğu Anadolu Bölgesi, 47100, Türkiye 100 2026-10-01T18:42:30.636187 1790894550.636187 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:44:15,370 - INFO - [__main__.py -> log()] - address='Ilopango' longitude='-89.10944' latitude='13.70167' time='2026-10-01T18:44:15.342289'
+2026-10-01 18:44:15,371 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:44:15.342289 to 2026-10-01 18:44:15.342289
+2026-10-01 18:44:15,371 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:44:15,371 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:44:15,372 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=13.70167&lon=-89.10944&format=json&addressdetails=1
+2026-10-01 18:44:15,373 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:44:15,757 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=13.70167&lon=-89.10944&format=json&addressdetails=1 HTTP/1.1" 200 455
+2026-10-01 18:44:15,757 - INFO - [api.py -> save_location()] - saving address Zona Franca San Bartolo, San Bartolo, Amatitán, Ilopango, San Salvador Este, San Salvador, 1117, El Salvador for user 100
+2026-10-01 18:44:15,758 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:44:15.342289 to 2026-10-01 18:44:15.342289
+2026-10-01 18:44:15,761 - DEBUG - [database.py -> save_location()] - saved Zona Franca San Bartolo, San Bartolo, Amatitán, Ilopango, San Salvador Este, San Salvador, 1117, El Salvador 100 2026-10-01T18:44:15.342289 1790894655.342289 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:44:52,503 - INFO - [__main__.py -> log()] - address='Chacabuco' longitude='-60.47389' latitude='-34.64167' time='2026-10-01T18:44:52.483610'
+2026-10-01 18:44:52,504 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:44:52.483610 to 2026-10-01 18:44:52.483610
+2026-10-01 18:44:52,505 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:44:52,505 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:44:52,505 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=-34.64167&lon=-60.47389&format=json&addressdetails=1
+2026-10-01 18:44:52,506 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:44:52,953 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=-34.64167&lon=-60.47389&format=json&addressdetails=1 HTTP/1.1" 200 453
+2026-10-01 18:44:52,953 - INFO - [api.py -> save_location()] - saving address 61, 25 de Mayo, Calle 179 - Dr. Ramon Carrillo, Chacabuco, Partido de Chacabuco, Buenos Aires, 6740, Argentina for user 100
+2026-10-01 18:44:52,954 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:44:52.483610 to 2026-10-01 18:44:52.483610
+2026-10-01 18:44:52,958 - DEBUG - [database.py -> save_location()] - saved 61, 25 de Mayo, Calle 179 - Dr. Ramon Carrillo, Chacabuco, Partido de Chacabuco, Buenos Aires, 6740, Argentina 100 2026-10-01T18:44:52.483610 1790894692.48361 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:46:10,327 - INFO - [__main__.py -> log()] - address='Ataq' longitude='46.83187' latitude='14.53767' time='2026-10-01T18:46:10.313745'
+2026-10-01 18:46:10,327 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:46:10.313745 to 2026-10-01 18:46:10.313745
+2026-10-01 18:46:10,327 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:46:10,327 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:46:10,329 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=14.53767&lon=46.83187&format=json&addressdetails=1
+2026-10-01 18:46:10,329 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:46:10,735 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=14.53767&lon=46.83187&format=json&addressdetails=1 HTTP/1.1" 200 419
+2026-10-01 18:46:10,736 - INFO - [api.py -> save_location()] - saving address عتق, مديرية عتق, محافظة شبوة, اليمن for user 100
+2026-10-01 18:46:10,736 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:46:10.313745 to 2026-10-01 18:46:10.313745
+2026-10-01 18:46:10,740 - DEBUG - [database.py -> save_location()] - saved عتق, مديرية عتق, محافظة شبوة, اليمن 100 2026-10-01T18:46:10.313745 1790894770.313745 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:47:45,692 - INFO - [__main__.py -> log()] - address='Strzelce Opolskie' longitude='18.30056' latitude='50.5107' time='2026-10-01T18:47:45.675903'
+2026-10-01 18:47:45,692 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:47:45.675903 to 2026-10-01 18:47:45.675903
+2026-10-01 18:47:45,692 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:47:45,692 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:47:45,693 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=50.5107&lon=18.30056&format=json&addressdetails=1
+2026-10-01 18:47:45,693 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:47:46,169 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=50.5107&lon=18.30056&format=json&addressdetails=1 HTTP/1.1" 200 477
+2026-10-01 18:47:46,170 - INFO - [api.py -> save_location()] - saving address 2, Rynek, Adamowice, Strzelce Opolskie, gmina Strzelce Opolskie, powiat strzelecki, województwo opolskie, 47-100, Polska for user 100
+2026-10-01 18:47:46,170 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:47:45.675903 to 2026-10-01 18:47:45.675903
+2026-10-01 18:47:46,174 - DEBUG - [database.py -> save_location()] - saved 2, Rynek, Adamowice, Strzelce Opolskie, gmina Strzelce Opolskie, powiat strzelecki, województwo opolskie, 47-100, Polska 100 2026-10-01T18:47:45.675903 1790894865.675903 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:48:57,551 - INFO - [__main__.py -> log()] - address='Massapequa' longitude='-73.47429' latitude='40.68066' time='2026-10-01T18:48:57.538545'
+2026-10-01 18:48:57,552 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:48:57.538545 to 2026-10-01 18:48:57.538545
+2026-10-01 18:48:57,552 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:57,552 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:57,552 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=40.68066&lon=-73.47429&format=json&addressdetails=1
+2026-10-01 18:48:57,553 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:48:58,028 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=40.68066&lon=-73.47429&format=json&addressdetails=1 HTTP/1.1" 200 466
+2026-10-01 18:48:58,029 - INFO - [api.py -> save_location()] - saving address 555, Hicksville Road, Massapequa, Town of Oyster Bay, Nassau County, New York, 11758, United States for user 100
+2026-10-01 18:48:58,029 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:48:57.538545 to 2026-10-01 18:48:57.538545
+2026-10-01 18:48:58,034 - DEBUG - [database.py -> save_location()] - saved 555, Hicksville Road, Massapequa, Town of Oyster Bay, Nassau County, New York, 11758, United States 100 2026-10-01T18:48:57.538545 1790894937.538545 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:48:58,584 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:49:58.581157'
+2026-10-01 18:48:58,584 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:49:58.581157 to 2026-10-01 18:49:58.581157
+2026-10-01 18:48:58,584 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,584 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,584 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:48:58,585 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:48:58,909 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:48:58,910 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:48:58,910 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:49:58.581157 to 2026-10-01 18:49:58.581157
+2026-10-01 18:48:58,914 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:49:58.581157 1790894998.581157 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:48:58,918 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:50:58.915676'
+2026-10-01 18:48:58,918 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:58.915676 to 2026-10-01 18:50:58.915676
+2026-10-01 18:48:58,919 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,919 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,919 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:48:58,920 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:48:58,972 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:48:58,973 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:48:58,973 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:58.915676 to 2026-10-01 18:50:58.915676
+2026-10-01 18:48:58,976 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:50:58.915676 1790895058.915676 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:48:58,980 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:51:58.978172'
+2026-10-01 18:48:58,981 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:58.978172 to 2026-10-01 18:51:58.978172
+2026-10-01 18:48:58,981 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,981 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:58,982 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:48:58,983 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:48:59,049 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:48:59,050 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:48:59,050 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:58.978172 to 2026-10-01 18:51:58.978172
+2026-10-01 18:48:59,052 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:51:58.978172 1790895118.978172 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:48:59,056 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:52:59.053696'
+2026-10-01 18:48:59,056 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:59.053696 to 2026-10-01 18:52:59.053696
+2026-10-01 18:48:59,057 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:59,057 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:48:59,057 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:48:59,058 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:48:59,120 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:48:59,121 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:48:59,121 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:59.053696 to 2026-10-01 18:52:59.053696
+2026-10-01 18:48:59,123 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:52:59.053696 1790895179.053696 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:16,238 - INFO - [__main__.py -> log()] - address='Clermont' longitude='-81.77285' latitude='28.54944' time='2026-10-01T18:49:16.226116'
+2026-10-01 18:49:16,238 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:49:16.226116 to 2026-10-01 18:49:16.226116
+2026-10-01 18:49:16,239 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:16,239 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:16,239 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=28.54944&lon=-81.77285&format=json&addressdetails=1
+2026-10-01 18:49:16,240 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:17,290 - DEBUG - [retry.py -> increment()] - Incremented Retry for (url='/reverse?lat=28.54944&lon=-81.77285&format=json&addressdetails=1'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:17,291 - WARNING - [connectionpool.py -> urlopen()] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=28.54944&lon=-81.77285&format=json&addressdetails=1
+2026-10-01 18:49:17,291 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (2): nominatim.openstreetmap.org:443
+2026-10-01 18:49:17,617 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=28.54944&lon=-81.77285&format=json&addressdetails=1 HTTP/1.1" 200 416
+2026-10-01 18:49:17,617 - INFO - [api.py -> save_location()] - saving address 1055, Linden Street, Clermont, Lake County, Florida, 34711, United States for user 100
+2026-10-01 18:49:17,617 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:49:16.226116 to 2026-10-01 18:49:16.226116
+2026-10-01 18:49:17,621 - DEBUG - [database.py -> save_location()] - saved 1055, Linden Street, Clermont, Lake County, Florida, 34711, United States 100 2026-10-01T18:49:16.226116 1790894956.226116 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:18,120 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:50:18.117561'
+2026-10-01 18:49:18,120 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:18.117561 to 2026-10-01 18:50:18.117561
+2026-10-01 18:49:18,120 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,121 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,121 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:49:18,121 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:18,170 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:49:18,171 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:18,171 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:18.117561 to 2026-10-01 18:50:18.117561
+2026-10-01 18:49:18,175 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:50:18.117561 1790895018.117561 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:18,179 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:51:18.176491'
+2026-10-01 18:49:18,179 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:18.176491 to 2026-10-01 18:51:18.176491
+2026-10-01 18:49:18,180 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,180 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,180 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:49:18,181 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:18,250 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:49:18,251 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:18,251 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:18.176491 to 2026-10-01 18:51:18.176491
+2026-10-01 18:49:18,256 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:51:18.176491 1790895078.176491 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:18,261 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:52:18.258044'
+2026-10-01 18:49:18,261 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:18.258044 to 2026-10-01 18:52:18.258044
+2026-10-01 18:49:18,262 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,262 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,262 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:49:18,264 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:18,823 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:49:18,824 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:18,824 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:18.258044 to 2026-10-01 18:52:18.258044
+2026-10-01 18:49:18,828 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:52:18.258044 1790895138.258044 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:18,833 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:53:18.830082'
+2026-10-01 18:49:18,833 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:18.830082 to 2026-10-01 18:53:18.830082
+2026-10-01 18:49:18,833 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,833 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:18,833 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:49:18,834 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:18,890 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:49:18,891 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:18,891 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:18.830082 to 2026-10-01 18:53:18.830082
+2026-10-01 18:49:18,893 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:18.830082 1790895198.830082 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:24,335 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:50:24.332594'
+2026-10-01 18:49:24,335 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:24.332594 to 2026-10-01 18:50:24.332594
+2026-10-01 18:49:24,336 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,336 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,336 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:49:24,336 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:24,783 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:49:24,784 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:24,784 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:50:24.332594 to 2026-10-01 18:50:24.332594
+2026-10-01 18:49:24,788 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:50:24.332594 1790895024.332594 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:24,792 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:51:24.789287'
+2026-10-01 18:49:24,792 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:24.789287 to 2026-10-01 18:51:24.789287
+2026-10-01 18:49:24,792 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,792 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,792 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:49:24,793 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:24,844 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:49:24,845 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:24,845 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:24.789287 to 2026-10-01 18:51:24.789287
+2026-10-01 18:49:24,848 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:51:24.789287 1790895084.789287 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:24,851 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:52:24.849330'
+2026-10-01 18:49:24,852 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:24.849330 to 2026-10-01 18:52:24.849330
+2026-10-01 18:49:24,852 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,852 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:24,852 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:49:24,853 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:25,003 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:49:25,004 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:25,004 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:24.849330 to 2026-10-01 18:52:24.849330
+2026-10-01 18:49:25,007 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:52:24.849330 1790895144.84933 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:49:25,011 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:53:25.009251'
+2026-10-01 18:49:25,012 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:25.009251 to 2026-10-01 18:53:25.009251
+2026-10-01 18:49:25,012 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:25,012 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:49:25,012 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:49:25,013 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:49:25,065 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:49:25,066 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:49:25,066 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:25.009251 to 2026-10-01 18:53:25.009251
+2026-10-01 18:49:25,069 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:25.009251 1790895205.009251 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:49,129 - INFO - [__main__.py -> log()] - address='Quimper' longitude='-4.1' latitude='48' time='2026-10-01T18:51:49.116420'
+2026-10-01 18:51:49,129 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:49.116420 to 2026-10-01 18:51:49.116420
+2026-10-01 18:51:49,129 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:49,129 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:49,130 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=48.0&lon=-4.1&format=json&addressdetails=1
+2026-10-01 18:51:49,130 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:50,180 - DEBUG - [retry.py -> increment()] - Incremented Retry for (url='/reverse?lat=48.0&lon=-4.1&format=json&addressdetails=1'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,181 - WARNING - [connectionpool.py -> urlopen()] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=48.0&lon=-4.1&format=json&addressdetails=1
+2026-10-01 18:51:50,181 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (2): nominatim.openstreetmap.org:443
+2026-10-01 18:51:50,709 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=48.0&lon=-4.1&format=json&addressdetails=1 HTTP/1.1" 200 473
+2026-10-01 18:51:50,710 - INFO - [api.py -> save_location()] - saving address 8, Allée de Pen Ruic, Penvillers, Quimper, Finistère, Bretagne, France métropolitaine, 29000, France for user 100
+2026-10-01 18:51:50,710 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:51:49.116420 to 2026-10-01 18:51:49.116420
+2026-10-01 18:51:50,714 - DEBUG - [database.py -> save_location()] - saved 8, Allée de Pen Ruic, Penvillers, Quimper, Finistère, Bretagne, France métropolitaine, 29000, France 100 2026-10-01T18:51:49.116420 1790895109.11642 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:50,800 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:52:50.796948'
+2026-10-01 18:51:50,800 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:50.796948 to 2026-10-01 18:52:50.796948
+2026-10-01 18:51:50,801 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,801 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,801 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:51:50,802 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:50,850 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:51:50,851 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:50,851 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:50.796948 to 2026-10-01 18:52:50.796948
+2026-10-01 18:51:50,855 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:52:50.796948 1790895170.796948 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:50,861 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:53:50.856475'
+2026-10-01 18:51:50,861 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:50.856475 to 2026-10-01 18:53:50.856475
+2026-10-01 18:51:50,863 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,863 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,863 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:51:50,864 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:50,982 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:51:50,983 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:50,983 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:50.856475 to 2026-10-01 18:53:50.856475
+2026-10-01 18:51:50,987 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:50.856475 1790895230.856475 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:50,991 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:54:50.988476'
+2026-10-01 18:51:50,991 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:50.988476 to 2026-10-01 18:54:50.988476
+2026-10-01 18:51:50,991 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,992 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:50,992 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:51:50,992 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:51,047 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:51:51,047 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:51,048 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:50.988476 to 2026-10-01 18:54:50.988476
+2026-10-01 18:51:51,050 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:54:50.988476 1790895290.988476 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:51,055 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:55:51.052432'
+2026-10-01 18:51:51,055 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:51.052432 to 2026-10-01 18:55:51.052432
+2026-10-01 18:51:51,055 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:51,055 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:51,056 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:51:51,056 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:51,147 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:51:51,147 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:51,148 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:51.052432 to 2026-10-01 18:55:51.052432
+2026-10-01 18:51:51,151 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:51.052432 1790895351.052432 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:56,566 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:52:56.563506'
+2026-10-01 18:51:56,566 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:56.563506 to 2026-10-01 18:52:56.563506
+2026-10-01 18:51:56,566 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,566 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,566 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:51:56,567 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:56,633 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:51:56,634 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:56,634 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:56.563506 to 2026-10-01 18:52:56.563506
+2026-10-01 18:51:56,638 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:52:56.563506 1790895176.563506 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:56,642 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:53:56.639527'
+2026-10-01 18:51:56,642 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:56.639527 to 2026-10-01 18:53:56.639527
+2026-10-01 18:51:56,642 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,642 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,642 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:51:56,643 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:56,737 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:51:56,738 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:56,738 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:56.639527 to 2026-10-01 18:53:56.639527
+2026-10-01 18:51:56,741 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:56.639527 1790895236.639527 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:56,747 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:54:56.743832'
+2026-10-01 18:51:56,747 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:56.743832 to 2026-10-01 18:54:56.743832
+2026-10-01 18:51:56,749 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,749 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,749 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:51:56,750 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:56,816 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:51:56,817 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:56,817 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:56.743832 to 2026-10-01 18:54:56.743832
+2026-10-01 18:51:56,820 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:54:56.743832 1790895296.743832 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:51:56,824 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:55:56.822063'
+2026-10-01 18:51:56,824 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:56.822063 to 2026-10-01 18:55:56.822063
+2026-10-01 18:51:56,825 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,825 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:51:56,825 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:51:56,826 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:51:56,887 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:51:56,888 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:51:56,888 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:56.822063 to 2026-10-01 18:55:56.822063
+2026-10-01 18:51:56,891 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:56.822063 1790895356.822063 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:01,898 - INFO - [__main__.py -> report()] - 200 0
+2026-10-01 18:52:01,898 - ERROR - [models.py -> to_date_time()] - Invalid isoformat string: '0'
+2026-10-01 18:52:39,642 - INFO - [__main__.py -> log()] - address='Azrou' longitude='-5.22126' latitude='33.43443' time='2026-10-01T18:52:39.617817'
+2026-10-01 18:52:39,643 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:39.617817 to 2026-10-01 18:52:39.617817
+2026-10-01 18:52:39,644 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:39,644 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:39,644 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=33.43443&lon=-5.22126&format=json&addressdetails=1
+2026-10-01 18:52:39,645 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:40,088 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=33.43443&lon=-5.22126&format=json&addressdetails=1 HTTP/1.1" 200 588
+2026-10-01 18:52:40,088 - INFO - [api.py -> save_location()] - saving address Azrou أزرو, Azrou ⴰⵣⵔⵓ أزرو, pachalik d'Azrou, Province d'Ifrane ⵜⴰⵙⴳⴰ ⵏ ⵉⴼⵔⴰⵏ إقليم إفران, Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس, 53106, Maroc ⵍⵎⵖⵔⵉⴱ المغرب for user 100
+2026-10-01 18:52:40,089 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:52:39.617817 to 2026-10-01 18:52:39.617817
+2026-10-01 18:52:40,093 - DEBUG - [database.py -> save_location()] - saved Azrou أزرو, Azrou ⴰⵣⵔⵓ أزرو, pachalik d'Azrou, Province d'Ifrane ⵜⴰⵙⴳⴰ ⵏ ⵉⴼⵔⴰⵏ إقليم إفران, Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس, 53106, Maroc ⵍⵎⵖⵔⵉⴱ المغرب 100 2026-10-01T18:52:39.617817 1790895159.617817 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:40,640 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:53:40.637400'
+2026-10-01 18:52:40,640 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:40.637400 to 2026-10-01 18:53:40.637400
+2026-10-01 18:52:40,640 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,640 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,640 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:52:40,641 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:40,695 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:52:40,696 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:40,697 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:40.637400 to 2026-10-01 18:53:40.637400
+2026-10-01 18:52:40,700 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:40.637400 1790895220.6374 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:40,705 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:54:40.702263'
+2026-10-01 18:52:40,705 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:40.702263 to 2026-10-01 18:54:40.702263
+2026-10-01 18:52:40,705 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,705 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,706 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:52:40,706 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:40,749 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:52:40,750 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:40,750 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:40.702263 to 2026-10-01 18:54:40.702263
+2026-10-01 18:52:40,753 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:54:40.702263 1790895280.702263 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:40,757 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:55:40.754560'
+2026-10-01 18:52:40,757 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:40.754560 to 2026-10-01 18:55:40.754560
+2026-10-01 18:52:40,757 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,757 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,757 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:52:40,758 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:40,818 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:52:40,819 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:40,819 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:40.754560 to 2026-10-01 18:55:40.754560
+2026-10-01 18:52:40,824 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:40.754560 1790895340.75456 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:40,828 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:56:40.825430'
+2026-10-01 18:52:40,828 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:40.825430 to 2026-10-01 18:56:40.825430
+2026-10-01 18:52:40,828 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,828 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:40,828 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:52:40,829 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:41,147 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:52:41,147 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:41,147 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:40.825430 to 2026-10-01 18:56:40.825430
+2026-10-01 18:52:41,150 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:40.825430 1790895400.82543 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:46,520 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:53:46.510761'
+2026-10-01 18:52:46,520 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:46.510761 to 2026-10-01 18:53:46.510761
+2026-10-01 18:52:46,521 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:46,522 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:46,522 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:52:46,523 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:46,584 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:52:46,585 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:46,586 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:53:46.510761 to 2026-10-01 18:53:46.510761
+2026-10-01 18:52:46,589 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:53:46.510761 1790895226.510761 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:46,594 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:54:46.591331'
+2026-10-01 18:52:46,594 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:46.591331 to 2026-10-01 18:54:46.591331
+2026-10-01 18:52:46,595 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:46,595 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:46,595 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:52:46,595 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:47,170 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 487
+2026-10-01 18:52:47,171 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:47,171 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:46.591331 to 2026-10-01 18:54:46.591331
+2026-10-01 18:52:47,175 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:54:46.591331 1790895286.591331 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:47,180 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:55:47.177572'
+2026-10-01 18:52:47,180 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:47.177572 to 2026-10-01 18:55:47.177572
+2026-10-01 18:52:47,180 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:47,180 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:47,181 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:52:47,182 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:47,348 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:52:47,348 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:47,349 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:47.177572 to 2026-10-01 18:55:47.177572
+2026-10-01 18:52:47,352 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:47.177572 1790895347.177572 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:47,356 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:56:47.353628'
+2026-10-01 18:52:47,356 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:47.353628 to 2026-10-01 18:56:47.353628
+2026-10-01 18:52:47,356 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:47,356 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:52:47,357 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:52:47,357 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:52:47,407 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:52:47,408 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:52:47,408 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:47.353628 to 2026-10-01 18:56:47.353628
+2026-10-01 18:52:47,410 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:47.353628 1790895407.353628 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:52:52,419 - INFO - [__main__.py -> report()] - 200 2026-09-30T18:52:52.416291
+2026-10-01 18:52:52,419 - DEBUG - [models.py -> to_date_time()] - converted time 2026-09-30T18:52:52.416291 to 2026-09-30 18:52:52.416291
+2026-10-01 18:54:30,477 - INFO - [__main__.py -> log()] - address='Malakhovka' longitude='38.02486' latitude='55.64776' time='2026-10-01T18:54:30.463065'
+2026-10-01 18:54:30,477 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:30.463065 to 2026-10-01 18:54:30.463065
+2026-10-01 18:54:30,477 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:30,477 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:30,478 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=55.64776&lon=38.02486&format=json&addressdetails=1
+2026-10-01 18:54:30,478 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:30,949 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=55.64776&lon=38.02486&format=json&addressdetails=1 HTTP/1.1" 200 561
+2026-10-01 18:54:30,954 - INFO - [api.py -> save_location()] - saving address 54, улица Льва Толстого, Малаховка, городской округ Люберцы, Московская область, Центральный федеральный округ, 140030, Россия for user 100
+2026-10-01 18:54:30,955 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:54:30.463065 to 2026-10-01 18:54:30.463065
+2026-10-01 18:54:30,974 - DEBUG - [database.py -> save_location()] - saved 54, улица Льва Толстого, Малаховка, городской округ Люберцы, Московская область, Центральный федеральный округ, 140030, Россия 100 2026-10-01T18:54:30.463065 1790895270.463065 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:31,048 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:55:31.043641'
+2026-10-01 18:54:31,048 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:31.043641 to 2026-10-01 18:55:31.043641
+2026-10-01 18:54:31,049 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,049 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,049 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:54:31,050 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:31,221 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:54:31,221 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:31,221 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:31.043641 to 2026-10-01 18:55:31.043641
+2026-10-01 18:54:31,226 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:31.043641 1790895331.043641 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:31,230 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:56:31.227557'
+2026-10-01 18:54:31,230 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:31.227557 to 2026-10-01 18:56:31.227557
+2026-10-01 18:54:31,230 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,230 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,231 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:54:31,231 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:31,289 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:54:31,290 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:31,290 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:31.227557 to 2026-10-01 18:56:31.227557
+2026-10-01 18:54:31,293 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:31.227557 1790895391.227557 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:31,298 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:57:31.295556'
+2026-10-01 18:54:31,298 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:31.295556 to 2026-10-01 18:57:31.295556
+2026-10-01 18:54:31,299 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,299 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,299 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:54:31,299 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:31,350 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:54:31,350 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:31,350 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:31.295556 to 2026-10-01 18:57:31.295556
+2026-10-01 18:54:31,353 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:57:31.295556 1790895451.295556 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:31,356 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:58:31.354518'
+2026-10-01 18:54:31,357 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:31.354518 to 2026-10-01 18:58:31.354518
+2026-10-01 18:54:31,357 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,357 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:31,357 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:54:31,358 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:31,420 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:54:31,421 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:31,421 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:31.354518 to 2026-10-01 18:58:31.354518
+2026-10-01 18:54:31,423 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:58:31.354518 1790895511.354518 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:36,458 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:55:36.455649'
+2026-10-01 18:54:36,458 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:36.455649 to 2026-10-01 18:55:36.455649
+2026-10-01 18:54:36,458 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,459 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,459 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:54:36,459 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:36,524 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:54:36,524 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:36,524 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:36.455649 to 2026-10-01 18:55:36.455649
+2026-10-01 18:54:36,528 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:55:36.455649 1790895336.455649 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:36,532 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:56:36.529894'
+2026-10-01 18:54:36,532 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:36.529894 to 2026-10-01 18:56:36.529894
+2026-10-01 18:54:36,533 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,533 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,533 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:54:36,533 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:36,652 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:54:36,653 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:36,653 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:36.529894 to 2026-10-01 18:56:36.529894
+2026-10-01 18:54:36,657 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:36.529894 1790895396.529894 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:36,661 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:57:36.658968'
+2026-10-01 18:54:36,661 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:36.658968 to 2026-10-01 18:57:36.658968
+2026-10-01 18:54:36,662 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,662 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,662 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:54:36,662 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:36,720 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:54:36,721 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:36,721 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:36.658968 to 2026-10-01 18:57:36.658968
+2026-10-01 18:54:36,724 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:57:36.658968 1790895456.658968 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:36,728 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:58:36.725893'
+2026-10-01 18:54:36,728 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:36.725893 to 2026-10-01 18:58:36.725893
+2026-10-01 18:54:36,729 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,729 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:54:36,729 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:54:36,730 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:54:36,791 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:54:36,792 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:54:36,792 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:36.725893 to 2026-10-01 18:58:36.725893
+2026-10-01 18:54:36,795 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:58:36.725893 1790895516.725893 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:54:41,803 - INFO - [__main__.py -> report()] - 200 2026-09-30T18:54:41.800846
+2026-10-01 18:54:41,803 - DEBUG - [models.py -> to_date_time()] - converted time 2026-09-30T18:54:41.800846 to 2026-09-30 18:54:41.800846
+2026-10-01 18:54:57,280 - DEBUG - [selector_events.py -> __init__()] - Using selector: KqueueSelector
+2026-10-01 18:55:04,806 - INFO - [__main__.py -> log()] - address='Claremont' longitude='-117.71978' latitude='34.09668' time='2026-10-01T18:55:04.769364'
+2026-10-01 18:55:04,809 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:04.769364 to 2026-10-01 18:55:04.769364
+2026-10-01 18:55:04,816 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:04,816 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:04,816 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=34.09668&lon=-117.71978&format=json&addressdetails=1
+2026-10-01 18:55:04,817 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:05,095 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=34.09668&lon=-117.71978&format=json&addressdetails=1 HTTP/1.1" 200 420
+2026-10-01 18:55:05,096 - INFO - [api.py -> save_location()] - saving address 411, Bonita Avenue, Claremont, Los Angeles County, California, 91711, United States for user 100
+2026-10-01 18:55:05,096 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:55:04.769364 to 2026-10-01 18:55:04.769364
+2026-10-01 18:55:05,100 - DEBUG - [database.py -> save_location()] - saved 411, Bonita Avenue, Claremont, Los Angeles County, California, 91711, United States 100 2026-10-01T18:55:04.769364 1790895304.769364 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:05,164 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:56:05.161541'
+2026-10-01 18:55:05,164 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:05.161541 to 2026-10-01 18:56:05.161541
+2026-10-01 18:55:05,165 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,165 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,165 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:55:05,166 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:05,209 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:55:05,210 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:05,210 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:05.161541 to 2026-10-01 18:56:05.161541
+2026-10-01 18:55:05,214 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:05.161541 1790895365.161541 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:05,218 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:57:05.215953'
+2026-10-01 18:55:05,218 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:05.215953 to 2026-10-01 18:57:05.215953
+2026-10-01 18:55:05,219 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,219 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,219 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:55:05,220 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:05,273 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:55:05,274 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:05,274 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:05.215953 to 2026-10-01 18:57:05.215953
+2026-10-01 18:55:05,276 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:57:05.215953 1790895425.215953 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:05,281 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:58:05.278577'
+2026-10-01 18:55:05,281 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:05.278577 to 2026-10-01 18:58:05.278577
+2026-10-01 18:55:05,282 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,282 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,282 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:55:05,283 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:05,333 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:55:05,333 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:05,334 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:05.278577 to 2026-10-01 18:58:05.278577
+2026-10-01 18:55:05,337 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:58:05.278577 1790895485.278577 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:05,341 - INFO - [__main__.py -> log()] - address='Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1058777' latitude='42.381637' time='2026-10-01T18:59:05.338424'
+2026-10-01 18:55:05,341 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:59:05.338424 to 2026-10-01 18:59:05.338424
+2026-10-01 18:55:05,341 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,341 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:05,342 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1
+2026-10-01 18:55:05,342 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:05,404 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.381637&lon=-71.1058777&format=json&addressdetails=1 HTTP/1.1" 200 506
+2026-10-01 18:55:05,405 - INFO - [api.py -> save_location()] - saving address Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:05,405 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:59:05.338424 to 2026-10-01 18:59:05.338424
+2026-10-01 18:55:05,408 - DEBUG - [database.py -> save_location()] - saved Boston Bouldering Project, 12A, Tyler Street, Ames Business Park, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:59:05.338424 1790895545.338424 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:10,427 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:56:10.425086'
+2026-10-01 18:55:10,428 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:10.425086 to 2026-10-01 18:56:10.425086
+2026-10-01 18:55:10,428 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,428 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,428 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:55:10,429 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:10,491 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:55:10,492 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:10,492 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:56:10.425086 to 2026-10-01 18:56:10.425086
+2026-10-01 18:55:10,494 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:56:10.425086 1790895370.425086 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:10,498 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:57:10.496125'
+2026-10-01 18:55:10,498 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:10.496125 to 2026-10-01 18:57:10.496125
+2026-10-01 18:55:10,499 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,499 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,499 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:55:10,499 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:10,568 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:55:10,569 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:10,570 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:57:10.496125 to 2026-10-01 18:57:10.496125
+2026-10-01 18:55:10,573 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:57:10.496125 1790895430.496125 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:10,578 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:58:10.575922'
+2026-10-01 18:55:10,578 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:10.575922 to 2026-10-01 18:58:10.575922
+2026-10-01 18:55:10,579 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,579 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,579 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:55:10,579 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:10,687 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 486
+2026-10-01 18:55:10,688 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:10,688 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:58:10.575922 to 2026-10-01 18:58:10.575922
+2026-10-01 18:55:10,691 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:58:10.575922 1790895490.575922 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:10,696 - INFO - [__main__.py -> log()] - address='Market Basket, 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States' longitude='-71.1015952' latitude='42.3807258' time='2026-10-01T18:59:10.693387'
+2026-10-01 18:55:10,696 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:59:10.693387 to 2026-10-01 18:59:10.693387
+2026-10-01 18:55:10,696 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,696 - DEBUG - [retry.py -> from_int()] - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-10-01 18:55:10,696 - DEBUG - [nominatim.py -> reverse()] - Nominatim.reverse: https://nominatim.openstreetmap.org/reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1
+2026-10-01 18:55:10,697 - DEBUG - [connectionpool.py -> _new_conn()] - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2026-10-01 18:55:11,116 - DEBUG - [connectionpool.py -> _make_request()] - https://nominatim.openstreetmap.org:443 "GET /reverse?lat=42.3807258&lon=-71.1015952&format=json&addressdetails=1 HTTP/1.1" 200 487
+2026-10-01 18:55:11,117 - INFO - [api.py -> save_location()] - saving address 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States for user 200
+2026-10-01 18:55:11,117 - DEBUG - [models.py -> to_date_time()] - converted time 2026-10-01T18:59:10.693387 to 2026-10-01 18:59:10.693387
+2026-10-01 18:55:11,120 - DEBUG - [database.py -> save_location()] - saved 400, Somerville Avenue, Spring Hill Historic District, Ball Square, Somerville, Middlesex County, Massachusetts, 02143, United States 200 2026-10-01T18:59:10.693387 1790895550.693387 with sql 
+insert into log (address,userid,timestamp,epochtime) values (?,?,?,?)
+
+2026-10-01 18:55:16,129 - INFO - [__main__.py -> report()] - 200 2026-09-30T18:55:16.125439
+2026-10-01 18:55:16,129 - DEBUG - [models.py -> to_date_time()] - converted time 2026-09-30T18:55:16.125439 to 2026-09-30 18:55:16.125439
+2026-10-01 18:58:06,634 - INFO - [__main__.py -> report()] - 200 2026-09-30T18:55:16.125439
+2026-10-01 18:58:06,636 - DEBUG - [models.py -> to_date_time()] - converted time 2026-09-30T18:55:16.125439 to 2026-09-30 18:55:16.125439
